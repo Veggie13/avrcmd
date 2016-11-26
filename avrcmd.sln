@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "avrcmd", "avrcmd\avrcmd.vcxproj", "{D96EA0E4-356D-4F01-9DC7-38AC144C6717}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "avrdev", "avrdev\avrdev.vcxproj", "{B65A512A-946B-41AD-8154-1E184C413853}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "avrwrapper", "avrwrapper\avrwrapper.vcxproj", "{972F2893-4FB8-41CA-9E59-221BA94B9DFB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "avrdev2", "avrdev\avrdev2.vcxproj", "{7B93E8E9-DB47-44B9-B4B7-6308DD83B85B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Device = Debug|Device
+		Debug|Win32 = Debug|Win32
+		Release|Device = Release|Device
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D96EA0E4-356D-4F01-9DC7-38AC144C6717}.Debug|Device.ActiveCfg = Debug|Win32
+		{D96EA0E4-356D-4F01-9DC7-38AC144C6717}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D96EA0E4-356D-4F01-9DC7-38AC144C6717}.Debug|Win32.Build.0 = Debug|Win32
+		{D96EA0E4-356D-4F01-9DC7-38AC144C6717}.Release|Device.ActiveCfg = Release|Win32
+		{D96EA0E4-356D-4F01-9DC7-38AC144C6717}.Release|Device.Build.0 = Release|Win32
+		{D96EA0E4-356D-4F01-9DC7-38AC144C6717}.Release|Win32.ActiveCfg = Release|Win32
+		{D96EA0E4-356D-4F01-9DC7-38AC144C6717}.Release|Win32.Build.0 = Release|Win32
+		{B65A512A-946B-41AD-8154-1E184C413853}.Debug|Device.ActiveCfg = Debug|Win32
+		{B65A512A-946B-41AD-8154-1E184C413853}.Debug|Device.Build.0 = Debug|Win32
+		{B65A512A-946B-41AD-8154-1E184C413853}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B65A512A-946B-41AD-8154-1E184C413853}.Release|Device.ActiveCfg = Release|Win32
+		{B65A512A-946B-41AD-8154-1E184C413853}.Release|Win32.ActiveCfg = Release|Win32
+		{B65A512A-946B-41AD-8154-1E184C413853}.Release|Win32.Build.0 = Release|Win32
+		{972F2893-4FB8-41CA-9E59-221BA94B9DFB}.Debug|Device.ActiveCfg = Debug|Win32
+		{972F2893-4FB8-41CA-9E59-221BA94B9DFB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{972F2893-4FB8-41CA-9E59-221BA94B9DFB}.Debug|Win32.Build.0 = Debug|Win32
+		{972F2893-4FB8-41CA-9E59-221BA94B9DFB}.Release|Device.ActiveCfg = Release|Win32
+		{972F2893-4FB8-41CA-9E59-221BA94B9DFB}.Release|Win32.ActiveCfg = Release|Win32
+		{972F2893-4FB8-41CA-9E59-221BA94B9DFB}.Release|Win32.Build.0 = Release|Win32
+		{7B93E8E9-DB47-44B9-B4B7-6308DD83B85B}.Debug|Device.ActiveCfg = Debug|Win32
+		{7B93E8E9-DB47-44B9-B4B7-6308DD83B85B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7B93E8E9-DB47-44B9-B4B7-6308DD83B85B}.Debug|Win32.Build.0 = Debug|Win32
+		{7B93E8E9-DB47-44B9-B4B7-6308DD83B85B}.Release|Device.ActiveCfg = Release|Win32
+		{7B93E8E9-DB47-44B9-B4B7-6308DD83B85B}.Release|Win32.ActiveCfg = Release|Win32
+		{7B93E8E9-DB47-44B9-B4B7-6308DD83B85B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
